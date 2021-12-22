@@ -1,3 +1,5 @@
+package com.bridgelabz.stock_account_mangement;
+
 import java.util.ArrayList;
 
 public class StockRepo {

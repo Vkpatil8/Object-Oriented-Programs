@@ -1,3 +1,5 @@
+package com.bridgelabz.stock_account_mangement;
+
 public class StockService {
     int result;
     public void buy(String companyName, int noOfShare, int balance){

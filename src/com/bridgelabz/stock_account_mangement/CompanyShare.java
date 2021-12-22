@@ -1,3 +1,5 @@
+package com.bridgelabz.stock_account_mangement;
+
 public class CompanyShare {
     private static double sharePrice;
     public String companyName;
